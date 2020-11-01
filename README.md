@@ -4,7 +4,7 @@ GUI window to shorten the long urls and generate qrc in .png format output.
 
 ### Window output:
 
-![URL shortener & QRC generating GUI](https://github.com/DeepanshuSharma-BNB/URL-shortener-QRC-generating-GUI/blob/main/url%20short.png
+![URL shortener & QRC generating GUI](https://github.com/DeepanshuSharma-BNB/URL-shortener-QRC-generating-GUI/blob/main/url%20short.png)
 
 ### Used Packages:
 * [Tkinter](https://docs.python.org/3/library/tkinter.html)
